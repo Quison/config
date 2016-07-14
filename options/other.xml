@@ -1,0 +1,16 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.konka.com/svn/portal/kkyiui/source/kkyiui" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.konka.com/svn/portal/kkyiui/source/kkyiui" />
+        <option value="http://svn.konka.com/svn/portal/web-services" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>

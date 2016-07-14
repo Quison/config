@@ -1,0 +1,11 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>hello</find>
+      <find>moguichun</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Hello</replace>
+    </replaceStrings>
+  </component>
+</application>

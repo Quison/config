@@ -1,0 +1,53 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="843" y="382" />
+    <location key="new project wizard.0.0.1920.1080" x="616" y="49" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="990" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="698" y="351" />
+    <location key="SettingsEditor.0.0.1920.1080" x="383" y="118" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="445" y="188" />
+    <location key="svn.repositoryBrowser.0.0.1920.1080" x="821" y="324" />
+    <location key="IgnoreUnversionedDialog.0.0.1920.1080" x="804" y="360" />
+    <location key="svn4idea.checkout.options.0.0.1920.1080" x="729" y="391" />
+    <location key="svn.upgradeDialog.0.0.1920.1080" x="796" y="426" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="628" y="187" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1454" y="790" />
+    <location key="#Notifications.0.0.1920.1080" x="740" y="260" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1920.1080" x="785" y="337" />
+    <location key="#Tomcat_Server.0.0.1920.1080" x="770" y="340" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080" x="725" y="211" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1920.1080" x="819" y="459" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1920.1080" x="780" y="445" />
+    <location key="findTextDialog.0.0.1920.1080" x="745" y="253" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" x="762" y="254" />
+    <location key="#TODO.0.0.1920.1080" x="734" y="24" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="570" y="107" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="607" y="226" />
+    <location key="SettingsEditor.1920.0.1920.1080" x="2361" y="189" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1920.1080" x="2350" y="192" />
+    <location key="#Browse_Repositories.1920.0.1920.1080" x="2460" y="188" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2660" y="288" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2587" y="351" />
+    <location key="#Project_Structure.0.0.1920.1080" x="471" y="108" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="796" y="220" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1814" height="54" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1814" height="54" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1814" height="54" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1814" height="54" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="460" height="122" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="716" height="502" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="756" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1814" height="258" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1814" height="258" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1814" height="258" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1814" height="258" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1814" height="258" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1814" height="258" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1814" height="258" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1814" height="258" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="0" height="0" />
+  </component>
+</application>

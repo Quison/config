@@ -1,7 +1,125 @@
 <application>
+  <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="kkyiui" values="1.8" collectionTime="1468489025624" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="kkyiui" values="ECMAScript 5.1" collectionTime="1468489025624" />
+      <project id="MvnDemo" values="ECMAScript 5.1" collectionTime="1468396303862" />
+      <project id="mavenweb" values="ECMAScript 5.1" collectionTime="1468487677965" />
+      <project id="maven-demo" values="ECMAScript 5.1" collectionTime="1468394682571" />
+      <project id="MavenWeb" values="ECMAScript 5.1" collectionTime="1468397188528" />
+      <project id="LearnProject" values="ECMAScript 5.1" collectionTime="1468398091243" />
+      <project id="ideatest" values="ECMAScript 5.1" collectionTime="1468391823877" />
+    </group>
+    <group name="module type">
+      <project id="mavenweb" values="JAVA_MODULE" collectionTime="1468487677937" />
+      <project id="kkyiui" values="JAVA_MODULE" collectionTime="1468489025573" />
+      <project id="LearnProject" values="JAVA_MODULE" collectionTime="1468398091208" />
+    </group>
+    <group name="vcs">
+      <project id="kkyiui" values="svn" collectionTime="1468489025572" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="MavenWeb" values="MavenRunConfiguration" collectionTime="1468397188518" />
+      <project id="kkyiui" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468489025573" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="mavenweb" values="com.mysql.jdbc.Driver" collectionTime="1468487677966" />
+    </group>
+    <group name="file-type">
+      <project id="mavenweb" values="JSP,XML" collectionTime="1468487677965" />
+      <project id="kkyiui" values="JAVA,XML,Properties,HTML,UNKNOWN,CSS,SWF,JavaScript,Images,JSP,PLAIN_TEXT" collectionTime="1468489025620" />
+      <project id="LearnProject" values="XML,IDEA_MODULE" collectionTime="1468398091242" />
+    </group>
+    <group name="images.ide.background">
+      <project id="kkyiui" values="frame 0,editor 0" collectionTime="1468489025622" />
+      <project id="MvnDemo" values="frame 0,editor 0" collectionTime="1468396303777" />
+      <project id="mavenweb" values="editor 0,frame 0" collectionTime="1468487677965" />
+      <project id="maven-demo" values="editor 0,frame 0" collectionTime="1468394682570" />
+      <project id="MavenWeb" values="editor 0,frame 0" collectionTime="1468397188528" />
+      <project id="LearnProject" values="editor 0,frame 0" collectionTime="1468398091242" />
+      <project id="ideatest" values="frame 0,editor 0" collectionTime="1468391823864" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="mavenweb" values="MySQL/5.5.8-log" collectionTime="1468487677966" />
+    </group>
+    <group name="frameworks">
+      <project id="kkyiui" values="web" collectionTime="1468489025573" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="kkyiui" values="Project,Project" collectionTime="1468489025624" />
+      <project id="MvnDemo" values="Project,Project" collectionTime="1468396303862" />
+      <project id="mavenweb" values="Project,Project" collectionTime="1468487677965" />
+      <project id="maven-demo" values="Project,Project" collectionTime="1468394682571" />
+      <project id="MavenWeb" values="Project,Project" collectionTime="1468397188528" />
+      <project id="LearnProject" values="Project,Project" collectionTime="1468398091243" />
+      <project id="ideatest" values="Project,Project" collectionTime="1468391823877" />
+    </group>
+    <group name="Git">
+      <project id="kkyiui" values="config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1468489025623" />
+      <project id="MvnDemo" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1468396303778" />
+      <project id="mavenweb" values="config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1468487677965" />
+      <project id="maven-demo" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1468394682570" />
+      <project id="MavenWeb" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1468397188528" />
+      <project id="LearnProject" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1468398091242" />
+      <project id="ideatest" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1468391823867" />
+    </group>
+    <group name="libraries">
+      <project id="kkyiui" values="spring" collectionTime="1468489025622" />
+    </group>
+    <group name="language-level">
+      <project id="kkyiui" values="JDK_1_8,JDK_1_6" collectionTime="1468489025622" />
+      <project id="MvnDemo" values="JDK_1_6" collectionTime="1468396303777" />
+      <project id="mavenweb" values="JDK_1_6" collectionTime="1468487677965" />
+      <project id="maven-demo" values="JDK_1_6" collectionTime="1468394682570" />
+      <project id="MavenWeb" values="JDK_1_6" collectionTime="1468397188528" />
+      <project id="LearnProject" values="JDK_1_6" collectionTime="1468398091242" />
+      <project id="ideatest" values="JDK_1_6" collectionTime="1468391823865" />
+    </group>
+  </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="ideaapp.started" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="6" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="6" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="12" />
+      <entry feature="execute.Application.Run" count="1" />
+      <entry feature="execute.JUnit.Run" count="6" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="1" />
+      <entry feature="ide.help.select.path.dialog" count="1" />
+      <entry feature="ide.settings.Appearance" count="7" />
+      <entry feature="ide.settings.Application&#10;Servers" count="3" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.File_Encodings" count="1" />
+      <entry feature="ide.settings.File_Types" count="2" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Importing" count="1" />
+      <entry feature="ide.settings.Java" count="2" />
+      <entry feature="ide.settings.Keymap" count="10" />
+      <entry feature="ide.settings.Maven" count="5" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.Subversion" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.TODO" count="2" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ideaapp.started" count="14" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="8" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="1" />
+      <entry feature="terminal.win" count="3" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="12" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+      <entry feature="welcome.screen.null" count="1" />
     </counts>
   </component>
 </application>
