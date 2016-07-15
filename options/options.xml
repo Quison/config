@@ -4,11 +4,11 @@
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
-    <property name="file.chooser.recent.files" value="E:/IdeaWorkSpace/mavenweb&#10;E:/IdeaWorkSpace/kkyiui&#10;E:/IdeaWorkSpace/kkyiui/src/main/webapp&#10;E:/IdeaWorkSpace/kkyiui/src/main/webapp/WEB-INF/web.xml&#10;E:/IdeaWorkSpace&#10;E:/IdeaWorkSpace/mavenweb/src/main/webapp&#10;E:/IdeaWorkSpace/mavenweb/src/main/webapp/WEB-INF/web.xml&#10;D:/Tomcat6.0.45&#10;D:/Tomcat7.0&#10;E:/IdeaWorkSpace/MavenWeb/mavenweb&#10;D:/maven-3.0.5/conf/settings.xml&#10;D:/maven-3.0.5&#10;D:/.m2/repository&#10;E:/IdeaWorkSpace/LearnProject&#10;C:/Program Files/Java/jdk1.8.0_77&#10;C:/Program Files/Java/jdk1.7.0_79&#10;C:/Program Files/Java/jdk1.6.0_37" />
+    <property name="file.chooser.recent.files" value="D:/Git/bin/git.exe&#10;E:/IdeaWorkSpace/WebFrame&#10;D:/Desktop/open.png&#10;D:/Desktop/mybatis_plus.zip&#10;E:/IdeaWorkSpace/mavenweb&#10;E:/IdeaWorkSpace/kkyiui&#10;E:/IdeaWorkSpace/kkyiui/src/main/webapp&#10;E:/IdeaWorkSpace/kkyiui/src/main/webapp/WEB-INF/web.xml&#10;E:/IdeaWorkSpace&#10;E:/IdeaWorkSpace/mavenweb/src/main/webapp&#10;E:/IdeaWorkSpace/mavenweb/src/main/webapp/WEB-INF/web.xml&#10;D:/Tomcat6.0.45&#10;D:/Tomcat7.0&#10;E:/IdeaWorkSpace/MavenWeb/mavenweb&#10;D:/maven-3.0.5/conf/settings.xml&#10;D:/maven-3.0.5&#10;D:/.m2/repository&#10;E:/IdeaWorkSpace/LearnProject&#10;C:/Program Files/Java/jdk1.8.0_77&#10;C:/Program Files/Java/jdk1.7.0_79&#10;C:/Program Files/Java/jdk1.6.0_37" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
     <property name="project.wizard.template" value="Maven" />
-    <property name="lastTip" value="15" />
+    <property name="lastTip" value="31" />
     <property name="selected.color.option.type" value="NOTIFICATION_BACKGROUND" />
     <property name="ColorChooser.RecentColors" value="199-237-204-255" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
@@ -19,13 +19,13 @@
     <property name="FileChooser.ShowPath" value="true" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="PLUGIN_FILTER" value="my&#10;mybatis&#10;JRebel&#10;tomc" />
+    <property name="PLUGIN_FILTER" value="git show&#10;mybatis&#10;my&#10;Gson&#10;maven hel" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.11229646" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="typescript.merge.auto.import" value="true" />
     <property name="typescript.use.config.auto.import" value="false" />
     <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
-    <property name="KEYMAP" value="Basice&#10;Duplic" />
+    <property name="KEYMAP" value="myba&#10;vim&#10;Basice&#10;Duplic" />
     <property name="fileTypeChangedCounter" value="4" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
@@ -34,5 +34,10 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="JUnit.Splitter.Proportion" value="0.13901345" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spring" />
+    <property name="ideavim.statistics.timestamp" value="1468565664859" />
+    <property name="plugins.preselection.path" value="D:/Desktop" />
+    <property name="search.everywhere.max.popup.width" value="617" />
   </component>
 </application>

@@ -1,0 +1,91 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1468575487368">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/IdeaWorkSpace/WebFrame/src/main/java/com/moguichun/webframe/controller/IndexController.java" timestamp="1468573633641">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="32" column="19" filename="E:/IdeaWorkSpace/WebFrame/src/main/java/com/moguichun/webframe/controller/IndexController.java" />
+      <jump line="31" column="0" filename="E:/IdeaWorkSpace/WebFrame/src/main/java/com/moguichun/webframe/controller/IndexController.java" />
+      <jump line="40" column="0" filename="E:/IdeaWorkSpace/WebFrame/src/main/java/com/moguichun/webframe/controller/IndexController.java" />
+      <jump line="37" column="4" filename="E:/IdeaWorkSpace/WebFrame/src/main/java/com/moguichun/webframe/controller/IndexController.java" />
+      <jump line="0" column="0" filename="E:/IdeaWorkSpace/WebFrame/src/main/java/com/moguichun/webframe/controller/IndexController.java" />
+      <jump line="35" column="0" filename="E:/IdeaWorkSpace/WebFrame/src/main/java/com/moguichun/webframe/controller/IndexController.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXRNYXAucHV0KCJudW1iZXJzIiwgMyk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXRNYXAucHV0KCJudW1iZXJzIiwgMyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXRNYXAucHV0KCJ1c2VycyIsdXNlcnMpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXRNYXAucHV0KCIiKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>has</text>
+      </register>
+      <register name="/" type="4">
+        <text>return</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>return</last-search>
+      <last-offset />
+      <last-pattern>return</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>return</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
