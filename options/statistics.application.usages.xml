@@ -1,6 +1,7 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="svn working copy format">
+      <project id="kkutils" values="1.8" collectionTime="1468911130112" />
       <project id="kkyiui" values="1.8" collectionTime="1468489025624" />
       <project id="kkchildmode" values="1.8" collectionTime="1468576966838" />
     </group>
@@ -8,49 +9,54 @@
       <project id="kkchildmode" values="ECMAScript 5.1" collectionTime="1468576966839" />
       <project id="kkyiui" values="ECMAScript 5.1" collectionTime="1468489025624" />
       <project id="MvnDemo" values="ECMAScript 5.1" collectionTime="1468396303862" />
+      <project id="kkutils" values="ECMAScript 5.1" collectionTime="1468911130112" />
       <project id="mavenweb" values="ECMAScript 5.1" collectionTime="1468487677965" />
       <project id="maven-demo" values="ECMAScript 5.1" collectionTime="1468394682571" />
       <project id="MavenWeb" values="ECMAScript 5.1" collectionTime="1468397188528" />
       <project id="LearnProject" values="ECMAScript 5.1" collectionTime="1468398091243" />
       <project id="ideatest" values="ECMAScript 5.1" collectionTime="1468391823877" />
-      <project id="WebFrame" values="ECMAScript 5.1" collectionTime="1468895440484" />
+      <project id="WebFrame" values="ECMAScript 5.1" collectionTime="1468911101495" />
     </group>
     <group name="module type">
-      <project id="WebFrame" values="JAVA_MODULE" collectionTime="1468895440438" />
       <project id="kkchildmode" values="JAVA_MODULE" collectionTime="1468576966762" />
-      <project id="mavenweb" values="JAVA_MODULE" collectionTime="1468487677937" />
       <project id="kkyiui" values="JAVA_MODULE" collectionTime="1468489025573" />
+      <project id="kkutils" values="JAVA_MODULE" collectionTime="1468911130090" />
+      <project id="mavenweb" values="JAVA_MODULE" collectionTime="1468487677937" />
       <project id="LearnProject" values="JAVA_MODULE" collectionTime="1468398091208" />
+      <project id="WebFrame" values="JAVA_MODULE" collectionTime="1468911101242" />
     </group>
     <group name="vcs">
-      <project id="WebFrame" values="Git" collectionTime="1468895440437" />
+      <project id="kkutils" values="svn" collectionTime="1468911130090" />
+      <project id="WebFrame" values="Git" collectionTime="1468911101241" />
       <project id="kkyiui" values="svn" collectionTime="1468489025572" />
       <project id="kkchildmode" values="svn" collectionTime="1468576966761" />
     </group>
     <group name="VCS Log 2">
-      <project id="WebFrame" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1468895440481" />
+      <project id="WebFrame" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1468911101348" />
     </group>
     <group name="run-configuration-type">
-      <project id="WebFrame" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468895440438" />
+      <project id="WebFrame" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468911101243" />
       <project id="MavenWeb" values="MavenRunConfiguration" collectionTime="1468397188518" />
       <project id="kkyiui" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468489025573" />
       <project id="kkchildmode" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468576966762" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="WebFrame" values="Application,JUnit" collectionTime="1468895440438" />
+      <project id="kkutils" values="Application" collectionTime="1468911130090" />
+      <project id="WebFrame" values="JUnit,Application" collectionTime="1468911101243" />
     </group>
     <group name="file-type">
-      <project id="WebFrame" values="JSP,Git file,Properties,SQL,XML,JAVA" collectionTime="1468895440474" />
-      <project id="kkchildmode" values="JSP,JAVA,Properties,JavaScript,HTML,CSS,Images,XML" collectionTime="1468576966835" />
+      <project id="kkchildmode" values="HTML,CSS,JAVA,JavaScript,JSP,Properties,Images,XML" collectionTime="1468576966835" />
+      <project id="kkyiui" values="JAVA,PLAIN_TEXT,UNKNOWN,HTML,SWF,Images,XML,Properties,CSS,JSP,JavaScript" collectionTime="1468489025620" />
+      <project id="kkutils" values="Images,PLAIN_TEXT,CSS,JAVA,XML,HTML" collectionTime="1468911130112" />
       <project id="mavenweb" values="XML,JSP" collectionTime="1468487677965" />
-      <project id="kkyiui" values="XML,Properties,PLAIN_TEXT,CSS,SWF,JSP,JavaScript,HTML,JAVA,Images,UNKNOWN" collectionTime="1468489025620" />
-      <project id="LearnProject" values="IDEA_MODULE,XML" collectionTime="1468398091242" />
+      <project id="LearnProject" values="XML,IDEA_MODULE" collectionTime="1468398091242" />
+      <project id="WebFrame" values="XML,JSP,Properties,JAVA,Git file,SQL" collectionTime="1468911101311" />
     </group>
     <group name="jdbc-datasource">
       <project id="mavenweb" values="MySQL/5.5.8-log" collectionTime="1468487677966" />
     </group>
     <group name="libraries">
-      <project id="WebFrame" values="spring" collectionTime="1468895440481" />
+      <project id="WebFrame" values="spring" collectionTime="1468911101347" />
       <project id="kkyiui" values="spring" collectionTime="1468489025622" />
       <project id="kkchildmode" values="spring" collectionTime="1468576966836" />
     </group>
@@ -58,10 +64,10 @@
       <project id="mavenweb" values="com.mysql.jdbc.Driver" collectionTime="1468487677966" />
     </group>
     <group name="spring">
-      <project id="WebFrame" values="fileset_autodetect_NONE" collectionTime="1468895440484" />
+      <project id="WebFrame" values="fileset_autodetect_NONE" collectionTime="1468911101547" />
     </group>
     <group name="frameworks">
-      <project id="WebFrame" values="Spring,web" collectionTime="1468895440437" />
+      <project id="WebFrame" values="Spring,web" collectionTime="1468911101241" />
       <project id="kkyiui" values="web" collectionTime="1468489025573" />
       <project id="kkchildmode" values="web" collectionTime="1468576966762" />
     </group>
@@ -69,45 +75,49 @@
       <project id="kkchildmode" values="Project,Project" collectionTime="1468576966839" />
       <project id="kkyiui" values="Project,Project" collectionTime="1468489025624" />
       <project id="MvnDemo" values="Project,Project" collectionTime="1468396303862" />
+      <project id="kkutils" values="Project,Project" collectionTime="1468911130112" />
       <project id="mavenweb" values="Project,Project" collectionTime="1468487677965" />
       <project id="maven-demo" values="Project,Project" collectionTime="1468394682571" />
       <project id="MavenWeb" values="Project,Project" collectionTime="1468397188528" />
       <project id="LearnProject" values="Project,Project" collectionTime="1468398091243" />
       <project id="ideatest" values="Project,Project" collectionTime="1468391823877" />
-      <project id="WebFrame" values="Project,Project" collectionTime="1468895440484" />
+      <project id="WebFrame" values="Project,Project" collectionTime="1468911101495" />
     </group>
     <group name="Git">
-      <project id="kkchildmode" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1468576966838" />
-      <project id="kkyiui" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1468489025623" />
-      <project id="MvnDemo" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1468396303778" />
-      <project id="mavenweb" values="config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1468487677965" />
-      <project id="maven-demo" values="config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1468394682570" />
-      <project id="MavenWeb" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled" collectionTime="1468397188528" />
-      <project id="LearnProject" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1468398091242" />
-      <project id="ideatest" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH" collectionTime="1468391823867" />
-      <project id="WebFrame" values="data.local.branches.count.1,config.repo.sync.DONT_SYNC,config.warn.about.detached.enabled,data.remotes.in.project.1,data.remote.branches.count.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1468895440483" />
+      <project id="kkchildmode" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1468576966838" />
+      <project id="kkyiui" values="config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1468489025623" />
+      <project id="MvnDemo" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1468396303778" />
+      <project id="kkutils" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled" collectionTime="1468911130112" />
+      <project id="mavenweb" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled" collectionTime="1468487677965" />
+      <project id="maven-demo" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1468394682570" />
+      <project id="MavenWeb" values="config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1468397188528" />
+      <project id="LearnProject" values="config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1468398091242" />
+      <project id="ideatest" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1468391823867" />
+      <project id="WebFrame" values="config.ssh.enabled,config.repo.sync.DONT_SYNC,data.remote.branches.count.1,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.local.branches.count.1,config.force.push.enabled" collectionTime="1468911101349" />
     </group>
     <group name="images.ide.background">
       <project id="kkchildmode" values="editor 0,frame 0" collectionTime="1468576966837" />
-      <project id="kkyiui" values="editor 0,frame 0" collectionTime="1468489025622" />
-      <project id="MvnDemo" values="editor 0,frame 0" collectionTime="1468396303777" />
-      <project id="mavenweb" values="editor 0,frame 0" collectionTime="1468487677965" />
-      <project id="maven-demo" values="editor 0,frame 0" collectionTime="1468394682570" />
-      <project id="MavenWeb" values="frame 0,editor 0" collectionTime="1468397188528" />
+      <project id="kkyiui" values="frame 0,editor 0" collectionTime="1468489025622" />
+      <project id="MvnDemo" values="frame 0,editor 0" collectionTime="1468396303777" />
+      <project id="kkutils" values="editor=0,frame=0" collectionTime="1468911130112" />
+      <project id="mavenweb" values="frame 0,editor 0" collectionTime="1468487677965" />
+      <project id="maven-demo" values="frame 0,editor 0" collectionTime="1468394682570" />
+      <project id="MavenWeb" values="editor 0,frame 0" collectionTime="1468397188528" />
       <project id="LearnProject" values="editor 0,frame 0" collectionTime="1468398091242" />
-      <project id="ideatest" values="editor 0,frame 0" collectionTime="1468391823864" />
-      <project id="WebFrame" values="editor=0,frame=0" collectionTime="1468895440482" />
+      <project id="ideatest" values="frame 0,editor 0" collectionTime="1468391823864" />
+      <project id="WebFrame" values="editor 0,frame 0" collectionTime="1468911101348" />
     </group>
     <group name="language-level">
       <project id="kkchildmode" values="JDK_1_8,JDK_1_6" collectionTime="1468576966837" />
       <project id="kkyiui" values="JDK_1_8,JDK_1_6" collectionTime="1468489025622" />
       <project id="MvnDemo" values="JDK_1_6" collectionTime="1468396303777" />
+      <project id="kkutils" values="JDK_1_8,JDK_1_6" collectionTime="1468911130112" />
       <project id="mavenweb" values="JDK_1_6" collectionTime="1468487677965" />
       <project id="maven-demo" values="JDK_1_6" collectionTime="1468394682570" />
       <project id="MavenWeb" values="JDK_1_6" collectionTime="1468397188528" />
       <project id="LearnProject" values="JDK_1_6" collectionTime="1468398091242" />
       <project id="ideatest" values="JDK_1_6" collectionTime="1468391823865" />
-      <project id="WebFrame" values="JDK_1_6" collectionTime="1468895440482" />
+      <project id="WebFrame" values="JDK_1_7" collectionTime="1468911101349" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -118,37 +128,40 @@
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="1" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="12" />
       <entry feature="execute.Application.JRebel Debug" count="1" />
-      <entry feature="execute.Application.Run" count="11" />
+      <entry feature="execute.Application.Run" count="12" />
       <entry feature="execute.JUnit.Run" count="6" />
       <entry feature="execute.MavenRunConfiguration.Run" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
       <entry feature="ide.help.select.path.dialog" count="1" />
       <entry feature="ide.settings.Appearance" count="7" />
       <entry feature="ide.settings.Application&#10;Servers" count="3" />
       <entry feature="ide.settings.Auto_Import" count="1" />
       <entry feature="ide.settings.Code_Completion" count="3" />
-      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Code_Style" count="2" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
       <entry feature="ide.settings.Compiler" count="1" />
       <entry feature="ide.settings.Console_Font" count="2" />
       <entry feature="ide.settings.File_Encodings" count="2" />
       <entry feature="ide.settings.File_Types" count="2" />
-      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="7" />
       <entry feature="ide.settings.Font" count="3" />
       <entry feature="ide.settings.General" count="1" />
       <entry feature="ide.settings.Git" count="1" />
       <entry feature="ide.settings.Importing" count="1" />
       <entry feature="ide.settings.Inspections" count="1" />
-      <entry feature="ide.settings.Java" count="4" />
+      <entry feature="ide.settings.Java" count="6" />
+      <entry feature="ide.settings.Jindent_-_Source_Code_Formatter" count="61" />
       <entry feature="ide.settings.Keymap" count="13" />
       <entry feature="ide.settings.Maven" count="5" />
       <entry feature="ide.settings.Menus_and_Toolbars" count="1" />
-      <entry feature="ide.settings.Plugins" count="18" />
+      <entry feature="ide.settings.Plugins" count="19" />
+      <entry feature="ide.settings.Project_Structure" count="2" />
       <entry feature="ide.settings.Subversion" count="1" />
       <entry feature="ide.settings.System_Settings" count="2" />
       <entry feature="ide.settings.TODO" count="2" />
       <entry feature="ide.settings.Tomcat_Server" count="1" />
-      <entry feature="ideaapp.started" count="47" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="140" />
+      <entry feature="ideaapp.started" count="49" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="152" />
       <entry feature="spring.SpringFacetInspection.AddFacetFix" count="1" />
       <entry feature="terminal.win" count="3" />
       <entry feature="tips.of.the.day.next" count="13" />

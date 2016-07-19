@@ -4,7 +4,7 @@
     <location key="new project wizard.0.0.1920.1080" x="616" y="49" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="990" y="230" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="698" y="351" />
-    <location key="SettingsEditor.0.0.1920.1080" x="467" y="216" />
+    <location key="SettingsEditor.0.0.1920.1080" x="212" y="253" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="445" y="188" />
     <location key="svn.repositoryBrowser.0.0.1920.1080" x="821" y="324" />
     <location key="IgnoreUnversionedDialog.0.0.1920.1080" x="804" y="360" />
@@ -46,10 +46,14 @@
     <location key="IdeErrosDialog.1920.0.1920.1080" x="2376" y="346" />
     <location key="#Plugins.0.0.1920.1080" x="583" y="88" />
     <location key="EditParametersPopupWindow.0.0.1920.1080" x="819" y="311" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1814" height="131" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1814" height="131" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1814" height="131" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1814" height="131" />
+    <location key="save.project.as.template.dialog.0.0.1920.1080" x="845" y="429" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="735" y="416" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1920.1080" x="724" y="320" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="803" y="250" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1814" height="58" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1814" height="58" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1814" height="58" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1814" height="58" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="460" height="122" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="716" height="502" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="756" />
@@ -66,6 +70,6 @@
     <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1876" height="329" />
     <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1876" height="329" />
     <size key="GotoFile_FileTypePopup.0.0.1920.1080" width="200" height="200" />
-    <size key="SettingsEditor.0.0.1920.1080" width="1303" height="701" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1552" height="803" />
   </component>
 </application>
