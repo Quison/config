@@ -2,11 +2,15 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://svn.konka.com/svn/portal/kktools/kkutils/sourcecode/trunk/kkutils" />
+        <option value="http://svn.konka.com/svn/portal/kkchildmode/sourcecode/trunk/kkchildmode" />
         <option value="http://svn.konka.com/svn/portal/kkyiui/source/kkyiui" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://svn.konka.com/svn/portal/kktools/kkutils/sourcecode/trunk/kkutils" />
+        <option value="http://svn.konka.com/svn/portal/kkchildmode/sourcecode/trunk/kkchildmode" />
         <option value="http://svn.konka.com/svn/portal/kkyiui/source/kkyiui" />
         <option value="http://svn.konka.com/svn/portal/web-services" />
       </list>

@@ -9,6 +9,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="JindentComponent.formatProjectFiles" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">

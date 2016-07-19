@@ -2,16 +2,17 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:\IdeaWorkSpace\kkutils" />
         <option value="E:\IdeaWorkSpace\WebFrame" />
         <option value="E:\IdeaWorkSpace\kkyiui" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:\IdeaWorkSpace\WebFrame" />
+        <option value="E:\IdeaWorkSpace\kkutils" />
       </list>
     </option>
-    <option name="lastPath" value="E:\IdeaWorkSpace\WebFrame" />
+    <option name="lastPath" value="E:\IdeaWorkSpace\kkutils" />
     <option name="additionalInfo">
       <map>
         <entry key="E:\IdeaWorkSpace\LearnProject">
@@ -53,7 +54,7 @@
               <option name="build" value="IU-162.1121.32" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\IntelliJ IDEA 2016.2\bin" />
-              <option name="projectOpenTimestamp" value="1468574875023" />
+              <option name="projectOpenTimestamp" value="1468892593460" />
               <option name="buildTimestamp" value="1467993600000" />
             </RecentProjectMetaInfo>
           </value>
@@ -65,6 +66,28 @@
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\IntelliJ IDEA 2016.2\bin" />
               <option name="projectOpenTimestamp" value="1468380624914" />
+              <option name="buildTimestamp" value="1467993600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\IdeaWorkSpace\kkchildmode">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1121.32" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\IntelliJ IDEA 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1468575875043" />
+              <option name="buildTimestamp" value="1467993600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\IdeaWorkSpace\kkutils">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1121.32" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\IntelliJ IDEA 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1468895440486" />
               <option name="buildTimestamp" value="1467993600000" />
             </RecentProjectMetaInfo>
           </value>

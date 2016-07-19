@@ -2319,6 +2319,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.mel">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.mule.intellij.plugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.mi">
       <plugins>
         <option name="myPlugins">
